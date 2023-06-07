@@ -1,5 +1,5 @@
 # Automation_Project
-Writing A Bash Script to do the following tasks:
+Bash Script to do the following tasks:
 1. Perform an update of the package details and the package list.
 2. Install the apache2 package if it is not already installed.
 3. Ensure that the apache2 service is running and Enabled.
